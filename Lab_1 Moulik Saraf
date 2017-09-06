@@ -1,15 +1,14 @@
 <!DOCTYPE html>
-<html lang="hi">
+<html lang="en">
  <head>
 	<meta charset="UTF-8">
 	<title>ITMD-361 Internet Technologies and Web Designing</title>
  </head>
  <body>
-  <p>Hello world. This is my first Website</p>
-  <p>	Name: Moulik Saraf.<br />
-		School: School of Applied Technology.<br />
-		Major: ITM<br />
-		Specialization: Software Development.<br />
-  </p>
+	<p>Hello world. This is my first Website</p>
+	<p>	Name: Moulik Saraf.</p>
+	<p>	School: School of Applied Technology.</p>
+	<p>	Major: ITM</p>
+	<p>	Specialization: Software Development.</p>
  </body>
 </html>
